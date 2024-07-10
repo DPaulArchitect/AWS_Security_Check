@@ -17,7 +17,7 @@ This application allows you to audit AWS S3 bucket security using a graphical us
     ```
 3. Run the application:
     ```sh
-    python app.py
+    python AWS_security_check.py
     ```
 
 ## Usage
