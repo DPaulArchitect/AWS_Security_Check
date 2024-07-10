@@ -28,7 +28,8 @@ This application allows you to audit AWS S3 bucket security using a graphical us
 
 1. Enter your AWS Access Key, Secret Key, and Region.
 2. Click "Connect" to start the audit.
-3. View the report in the application window.
+3. Use Provided Buttons to Audit specific Areas of AWS
+4. View the report in the application window.
 
 ## Requirements
 
