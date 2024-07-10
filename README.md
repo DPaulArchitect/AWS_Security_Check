@@ -7,6 +7,10 @@ This application allows you to audit AWS S3 bucket security using a graphical us
 - Identifies publicly accessible S3 buckets.
 - Provides recommendations for securing buckets.
 - Connects to your AWS account using provided credentials.
+  ADDED NEW FUNCTIONALITY V:2 BELOW
+- Checks for IAM users without MFA enabled.
+- Checks for overly permissive EC2 security groups.
+- Checks for public access to RDS instances
 
 ## Installation
 
@@ -24,7 +28,8 @@ This application allows you to audit AWS S3 bucket security using a graphical us
 
 1. Enter your AWS Access Key, Secret Key, and Region.
 2. Click "Connect" to start the audit.
-3. View the report in the application window.
+3. Use Provided Buttons to Audit specific Areas of AWS
+4. View the report in the application window.
 
 ## Requirements
 
